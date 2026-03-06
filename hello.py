@@ -1,3 +1,3 @@
-name = "prince"
+name = "Prince"
 
 print(name)
